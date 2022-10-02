@@ -28,6 +28,7 @@ I am a Developer who is working in Data Science.I am enthusiastic about technolo
 
 <details>
 <summary><h3> My Coding Journey</h3></summary>
+
 - I have been coding since High school on computer science exercises. I got into a CS because I liked the concept of programming. But I really started to play with code on my 3rd Year of College.
 - I have working knowledge on Java, HTML, CSS, Javascript because they were introduced in the curriculum and I did some projects using them.
 - Now I am a focused on Python and did some cool projects with it.
