@@ -1,59 +1,43 @@
-# 💻 Vishnu 
+Hi 👋 My name is Vishnu
+=======================
 
-```python
-Python Developer / Data Scientist
-```
-I am a Developer who is working in Data Science.I am enthusiastic about technology and I like building small scripts are programs that are fun to create and use.
+Data Scientist | Web developer | Python developer
+-------------------------------------------------
 
- 
-### 🧰 Languages and Tools
+I am a CS graduate. I worked as a Data Scientist in a AI startup. I am currently learning Web development
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<!-- <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> -->
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+* 🌍  I'm based in Trichy, India.
+* 🧠  I'm learning JavaScript
+* 🤝  I'm open to collaborating on Python, JavaScript and Web Apps
+* ⚡  I intend to learn a lot about Software Development and I am sharing about My Developer Journey on my socials.
 
-#
+<a href="https://www.github.com/vishnu-31" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/vishnu-31?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Vishnu_311" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Vishnu_311?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-- 🌱 I’m currently learning Data Science and Cloud
-- 👯 I’m looking to collaborate on Python projects and improve my Open Source skills
-- ⚡ I am a  Linux Enthusiast.
-- 💬 Ask me about Python, Linux
-- 🤔 I’m looking for help with Learning Cloud Skills
-<!-- - 📫 How to reach me: ... -->
-# 
-
-<details> <summary><h3> My Coding Journey</h3></summary>
-
-- I have been coding since High school on computer science exercises. I got into a CS because I liked the concept of programming. But I really started to play with code on my 3rd Year of College.
-- I have working knowledge on Java, HTML, CSS, Javascript because they were introduced in the curriculum and I did some projects using them.
-- Now I am a focused on Python and did some cool projects with it.
-- I had a programming buddy who shared the same interest as mine during the COVID-19 Pandemic. So, we did small projects which increased my curiosity on programming.
-- Now I am a Data Scientist in a company on my Locality.
-- I am currently interested in improving my Data Science skills and exploring Cloud ecosystem.
-
-</details>
+### Skills
 
 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
 
 
-<!-- ### Hi there 👋 -->
+### Socials
 
-<!--
-**vishnu-31/vishnu-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://www.github.com/vishnu-31" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vishnu-311/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Vishnu_311" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-Here are some ideas to get you started:
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/vishnu-31"><img src="https://github-readme-stats.vercel.app/api?username=vishnu-31&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vishnu-31's GitHub stats" /></a>
+
+<a href="http://www.github.com/vishnu-31"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-31&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
