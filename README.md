@@ -4,7 +4,7 @@ Vishnu Murugan
 Web developer | ML Engineer 
 ------------------------------------------------
 
-[BioDrop](https://www.biodrop.io/vishnu-31)
+[Bio Link](https://beacons.ai/vishnu31)
 
 Developer with 1 year of experience in the **Data Science**. 📊
 I have worked in **Computer Vision** 🖥️ projects of Anomaly Detection,  Recommendation Systems and Classification. 
