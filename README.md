@@ -1,20 +1,20 @@
 Hey There, I am Vishnu Murugan
 ===============================
 
-[Bio Link](https://beacons.ai/vishnu31)
+[Website](https://vishnu31.framer.website)
 
 I am a Machine Learning Engineer and Web developer.
 
-I have worked in **Computer Vision** 🖥️ projects of Anomaly Detection,  Recommendation Systems and Classification. 
+I have worked in **Generative AI** projects on image generation and Text generation. I have also worked on **Computer Vision** 🖥️ projects of Anomaly Detection, Recommendation Systems and Classification. 
 
 I am also skilled in **Full Stack Development** 💻 using **ReactJS** , **NextJS** and **Tailwind  CSS** . 
 
 I am working on some 🧠 ML Projects for fun.
-I am currently creating WebApps to gain expertise in Full Stack development.
+I am currently creating Websites for businesses to improve their online presence.
 
-I am sharing my learning on My Twitter ( X ) handle. Follow me to see what I am currently working on.
+I am sharing my learning on My Threads handle. Follow me to see what I am currently working on.
 
-If you want to collaborate with me on webapps or ML projects OR Talk about tech or projects, I am always interested. Feel free to DM me on Twitter.
+If you want to collaborate with me on webapps or ML projects OR Talk about tech or projects, I am always interested. Feel free to DM me on Insta.
 
 
 <a href="https://www.github.com/vishnu-31" target="_blank" rel="noreferrer"><img
@@ -33,7 +33,6 @@ src="https://img.shields.io/github/followers/vishnu-31?logo=github&style=for-the
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"  alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/></a>
@@ -56,11 +55,11 @@ src="https://img.shields.io/github/followers/vishnu-31?logo=github&style=for-the
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
-  <a href="https://www.x.com/Vishnu_311" target="_blank" rel="noreferrer"> 
+    <a href="https://www.threads.com/@itsvishnu_31" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> 
     </picture> 
   </a>
 </p>
