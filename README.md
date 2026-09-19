@@ -1,13 +1,13 @@
 Hey There, I am Vishnu Murugan
 ===============================
 
-[Website](https://vishnu31.framer.website)
+[Website](https://vishnu31.xyz/)
 
 I am a Machine Learning Engineer and Web developer.
 
 I have worked in **Generative AI** projects on image generation and Text generation. I have also worked on **Computer Vision** 🖥️ projects of Anomaly Detection, Recommendation Systems and Classification. 
 
-I am also skilled in **Full Stack Development** 💻 using **ReactJS** , **NextJS** and **Tailwind  CSS** . 
+I am also skilled in **Full Stack Development** 💻
 
 I am working on some 🧠 ML Projects for fun.
 I am currently creating Websites for businesses to improve their online presence.
